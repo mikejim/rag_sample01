@@ -8,7 +8,11 @@ which can run in-memory.
 ## Setup your environment
 
 This example can run in Codespaces but you can use the following if you are
-cloning this repository:
+cloning this repository. 
+
+**Added instructions (by Miguel)**
+
+I worked with VS Code. You either have the environment ready to run notebooks or you can install and run Jupyter to run it. I downloaded the LLaMA 3B because its size (2.6 GB). You then have to change the file extension to be .exe (in Windows) and run it. This will load a web server and then you put that IP in the Python code below.
 
 **Install the dependencies**
 
